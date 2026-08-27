@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31442172/README.md)
-# Nellie — Asistente de Voz Físico
+#— Asistente de Voz Físico
 
 Proyecto final de Integración de Sistemas, IoT y Arquitectura de Software.
 Asistente de voz tipo Alexa/Google Home, desarrollado en Python, con
